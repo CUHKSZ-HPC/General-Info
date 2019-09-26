@@ -31,13 +31,12 @@ Official website: https://www.isc-hpc.com/student-cluster-competition.html
 
 <b>Group</b>: 6 undergraduate students, 1 instructor
 
-<b>Sponsorship</b>:
+<b>Sponsorship</b>: 
 
 - Primial: School/Individual/Sponsor
-
 - Final: School/Individual/Sponsor
 
-  
+
 
 ## SC
 
@@ -47,7 +46,7 @@ Sadly. This competition is enrolled on May/June, which means The senior students
 
 <b>Group</b>: 6 undergraduate students, 1 instructor
 
-<b>Sponsorship</b>: 
+<b>Sponsorship</b>:
 
 - Primial: School/Individual/Sponsor
 - Final: School/Individual/Sponsor
