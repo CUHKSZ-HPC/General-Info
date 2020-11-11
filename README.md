@@ -4,7 +4,7 @@ Generally this is for the competition info display. There are super computing co
 
 ## ASC
 
-Official website: https://www.asc-events.org/ASC20/
+Official website: http://www.asc-events.org/ASC20-21/
 
 <b>DEADLINE for sign up</b>: Jan. 2020
 
