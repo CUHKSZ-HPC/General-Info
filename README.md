@@ -1,51 +1,71 @@
-# Competition-Info
+# General-Info
 
-Generally this is for the competition info display. There are super computing competitions. The ASC(Asia Supercomputing Competition), ISC(International Super Computing Student Cluster Competition), SC(Super Computing Student Cluster Competition). The SC is the first to be held, then ISC, ASC. Unlike ASC which is a governemnt-style competition, SC and ISC are in performance style, which means you can have a direct look upon the latest technology proposed by the companies and institutions. 
+This is the general info page. Please check all the information, the projects, the competition info, the group info here. 
 
-## ASC
+```shell
+.
+├── Competition-Info
+├── Experience
+└── README.md
+```
 
-Official website: http://www.asc-events.org/ASC20-21/
-
-<b>DEADLINE for sign up</b>: Jan. 2020
-
-<b>Primial</b>: March (TBD)
-
-<b>Final</b>: May/June (TBD)
-
-<b>Group</b>: 6 undergraduate students, 1 instructor
-
-<b>Sponsorship</b>: 
-
-- Primial: School/Individual/Sponsor
-- Final: Inspur
+- **Competition-Info** is for competition related information and updates. Please mark all the deadlines. 
+- **Experience** is for reports, presentations, sharings from other schools, for example, Thinghua. 
 
 
 
-## ISC
+## General-Grouping
 
-Official website: https://www.isc-hpc.com/student-cluster-competition.html
+### Info-Group
 
-<b>DEADLINE for sign up</b>: Nov. 8 2019
+- Gathering Competition Information;
 
-<b>Final</b>: June 21-25
+- Communicating with Competition Committee;
 
-<b>Group</b>: 6 undergraduate students, 1 instructor
+- Communicating with Professors and PHDs;
 
-<b>Sponsorship</b>: 
+- Managing Group Meeting and Sync Progress;
 
-- Final: School/Individual/Sponsor
+- **ALARMING ON DEADLINES**
+
+  **Members**:
+
+### AP-Group
+
+- Exploring Applications; 
+
+- Managing Application Documents; 
+
+- Proposing Training Projects;
+
+  **Members**:
+
+###SysOps-Group
+
+- Mangaing System Configurations and Related Documents;
+
+- Exploring New Confirguation and Its Performance;
+
+  **Members**: 
 
 
 
-## SC
+## Developing-Grouping
 
-Offical website: https://sc19.supercomputing.org/program/studentssc/student-cluster-competition/
+Please Finish The Documenting and Repo managing. 
 
-Sadly. This competition is enrolled on May/June, which means The senior students can't join the competition. 
+### HPC/...
 
-<b>Group</b>: 6 undergraduate students, 1 instructor
+Est Deadline:
 
-<b>Sponsorship</b>:
+### Quest
 
-- Primial: School/Individual/Sponsor
-- Final: School/Individual/Sponsor
+Est Deadline:
+
+### NLP
+
+Est Deadline:
+
+### Presto
+
+Est Deadline:
