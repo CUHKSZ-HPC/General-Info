@@ -48,7 +48,7 @@ This is the general info page. Please check all the information, the projects, t
 
 - Exploring New Confirguation and Its Performance;
 
-  **Members**: 吴宣辰 谢皓天 葛波罗
+  **Members**: 吴宣辰 谢皓天 葛波罗 杨杰焜
 
 
 
@@ -58,16 +58,16 @@ Please Finish The Documenting and Repo managing.
 
 ### HPC/...
 
-Est Deadline:
+Est Deadline: 4.24
 
 ### Quest
 
-Est Deadline:
+Est Deadline: 4.24
 
 ### NLP
 
-Est Deadline:
+Est Deadline: 4.24
 
 ### Presto
 
-Est Deadline:
+Est Deadline: 4.24
