@@ -30,7 +30,7 @@ This is the general info page. Please check all the information, the projects, t
 
 - **ALARMING ON DEADLINES;**
 
-  **Members**:高玮东 刘泉 刘子凡 杨浩文 
+  **Members**:高玮东 刘泉 刘子凡 杨浩文 杨杰焜 邵佳琪
 
 ### AP-Group
 
@@ -48,7 +48,7 @@ This is the general info page. Please check all the information, the projects, t
 
 - Exploring New Confirguation and Its Performance;
 
-  **Members**: 吴宣辰 谢皓天 葛波罗 杨杰焜
+  **Members**: 吴宣辰 谢皓天 葛波罗 
 
 
 
