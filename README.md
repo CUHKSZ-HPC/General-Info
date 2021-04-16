@@ -40,7 +40,7 @@ This is the general info page. Please check all the information, the projects, t
 
 - Proposing Training Projects;
 
-  **Members**: 吴宸浩 张泽银 杨苏培 叶崇杰 漆小楠 柯舒麒
+  **Members**: 吴宸浩 张泽银 杨苏培 叶崇杰 漆小楠
 
 ### SysOps-Group
 
