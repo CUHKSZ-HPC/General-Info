@@ -30,7 +30,7 @@ This is the general info page. Please check all the information, the projects, t
 
 - **ALARMING ON DEADLINES;**
 
-  **Members**:高玮东 刘泉 刘子凡 杨浩文 杨杰焜 邵佳琪
+  **Members**:高玮东 刘泉 刘子凡 杨浩文 杨杰焜
 
 ### AP-Group
 
@@ -76,6 +76,16 @@ Est Deadline: 4.24
 Est Deadline: 4.24
 
 ## Research on incoming Competition
-[Parallel Application Challenge (PAC):](http://www.pac-hpc.com/)
+[PAC2021赛程](http://www.paratera-edu.org.cn/Page/2021-04-27/2021%E5%85%A8%E5%9B%BD%E5%B9%B6%E8%A1%8C%E5%BA%94%E7%94%A8%E6%8C%91%E6%88%98%E8%B5%9B%20%20%E7%AB%9E%E8%B5%9B%E8%A7%84%E7%A8%8B737c24b8cc254e97893019a8abd3b62d.pdf)
 
-<u>(info including PAC schedule and procedure should be updated here)</u>
+### PAC
+
+Official website: http://www.pac-hpc.com/
+
+<b>DEADLINE for sign up</b>: 2021.6.30
+
+<b>Primial</b> ddl: Mid August
+
+<b>Final</b>: 10.21 during HPC China Conference
+
+<b>Group</b>: 1-4 undergraduate students, 1-2 instructor

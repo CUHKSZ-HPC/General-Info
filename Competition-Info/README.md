@@ -2,6 +2,18 @@
 
 Generally this is for the competition info display. There are super computing competitions. The ASC(Asia Supercomputing Competition), ISC(International Super Computing Student Cluster Competition), SC(Super Computing Student Cluster Competition). The SC is the first to be held, then ISC, ASC. Unlike ASC which is a governemnt-style competition, SC and ISC are in performance style, which means you can have a direct look upon the latest technology proposed by the companies and institutions. 
 
+## PAC
+
+Official website: http://www.pac-hpc.com/
+
+<b>DEADLINE for sign up</b>: 2021.6.30
+
+<b>Primial</b> ddl: Mid August
+
+<b>Final</b>: 10.21 during HPC China Conference
+
+<b>Group</b>: 1-4 undergraduate students, 1-2 instructor
+
 ## ASC
 
 Official website: http://www.asc-events.org/ASC20-21/
