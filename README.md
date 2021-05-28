@@ -30,7 +30,7 @@ This is the general info page. Please check all the information, the projects, t
 
 - **ALARMING ON DEADLINES;**
 
-  **Members**:高玮东 刘泉 刘子凡 杨浩文 杨杰焜
+  **Members**:杨杰焜 高玮东 刘泉 刘子凡 
 
 ### AP-Group
 
