@@ -91,8 +91,6 @@ Est Deadline: 4.24 -->
 
 <b>Final ddl</b>: 2021/10/18 23:59
 
-<b>Group</b>: 1-4 participants, 1-2 instructors
-
 ### CPC
 
 [CPC2021初赛赛题](http://www.paratera-edu.org.cn/Page/2021-06-18/CPC2021%E5%88%9D%E8%B5%9B%E8%B5%9B%E9%A2%982bee7c8e7a9543aa841205732ffab290.pdf)
@@ -109,4 +107,12 @@ Est Deadline: 4.24 -->
 
 <b>Final ddl</b>: 2021/09/23 23:59
 
-<b>Group</b>: 1-4 participants, 1 instructors
+### IPCC
+
+[IPCC2021初赛赛题](https://github.com/CUHKSZ-HPC/General-Info/tree/master/IPCC2021)
+
+[IPCC2021赛程](http://www.paratera-edu.org.cn/Page/2021-04-22/%E9%99%84%E4%BB%B61-2021%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%B1%8AACM%E4%B8%AD%E5%9B%BD-%E5%9B%BD%E9%99%85%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97%E6%8C%91%E6%88%98%E8%B5%9B%20%20%E7%AB%9E%E8%B5%9B%E8%A7%84%E7%A8%8B21339bf1249b4ce68d144a60e67f7580.pdf)
+
+<b>Primial ddl</b>: 2021/08/31 15:59
+
+<b>Final</b>: 2021/11/13 11:59
