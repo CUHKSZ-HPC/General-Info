@@ -4,5 +4,6 @@
 [Lecture 1 Video Recording](https://www.bilibili.com/video/BV1XV411s731?zw)
 
 <!-- [Lecture 2 Video Recording](https://www.bilibili.com/video/BV1XV411s731?zw) -->
+multihead_attention folder: primial source code
 
-Code for CPC Primial stored on Sunway cluster not backed up here.
+arraySum folder: demo for lecture 2
