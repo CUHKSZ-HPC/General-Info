@@ -1,7 +1,31 @@
+ATHREAD OFF
+Sum of array is : 10000000000.00
+Time(rpcc) : 4137.33 ms
+Time(time) : 4210.00 ms
+Time(gtod) : 4209.94 ms
+
+ATHREAD ON
+SIMD    OFF
+REG_COM OFF
+Sum of array is : 10000000000.00
+Time(rpcc) : 112.05 ms
+Time(time) : 120.00 ms
+Time(gtod) : 114.00 ms
+
+
 ATHREAD ON
 SIMD    ON
 REG_COM OFF
 Sum of array is : 10000000000.00
-Time(rpcc) : 39.15 ms
+Time(rpcc) : 39.07 ms
 Time(time) : 40.00 ms
-Time(gtod) : 39.83 ms
+Time(gtod) : 39.75 ms
+
+
+ATHREAD ON
+SIMD    ON
+REG_COM ON
+Sum of array is : 10000000000.00
+Time(rpcc) : 39.85 ms
+Time(time) : 40.00 ms
+Time(gtod) : 40.54 ms

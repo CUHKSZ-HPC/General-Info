@@ -11,3 +11,5 @@
  1. run.sh       :	普通提交命令；
  2. gprof_run.sh :	带 gprof 采样的提交命令；
  3. perf_run.sh  :	带 Jperf 采样的提交命令；
+
+bsub queue has been changed to q_sw_expr.

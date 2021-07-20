@@ -7,3 +7,11 @@
 
 multihead_attention folder: primial source code
 arraySum folder: demo for lecture 2
+Athread_OpenACC folder: demo of Athread api and OpenACC
+
+神威社区：http://bbs.nsccwx.cn/recent
+
+神威编译手册速查工具 SIMD intrinsics included
+https://dxhisboy.github.io/shenwei-doc/
+
+full dataset: /usr/sw-mpp/example/cpc_datafiles
